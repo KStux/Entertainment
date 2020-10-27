@@ -8,7 +8,9 @@
 
 <script type="text/javascript">
 
-
+	function passwordChk() {
+		
+	}
 
 </script>
 
