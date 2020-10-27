@@ -8,9 +8,13 @@
 
 <script type="text/javascript">
 
+<<<<<<< Updated upstream
 	function passwordChk() {
 		
 	}
+=======
+	
+>>>>>>> Stashed changes
 
 </script>
 
