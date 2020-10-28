@@ -47,7 +47,7 @@ div {
 <h3>아이디 찾기</h3>
 
 <div>
-  <form action="/action_page.php">
+  <form>
     <label for="fname">이름</label>
     <input type="text" id="fname" name="firstname" placeholder="이름을 입력하세요">
 
