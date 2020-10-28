@@ -12,6 +12,11 @@
 		font-size: 50px;
 		color:black;
 	}
+	a{
+		text-decoration: none;
+		color: black;
+		font-weight: bold;
+	}
 </style>
 </head>
 <body>
@@ -28,8 +33,9 @@
 			<br/><br/>
 			<input type="button" value="로그인" onclick="location.href='main.jsp'"> 
 		</div>
-	</form>
-	<a href='register.jsp'>회원가입하기</a>
+	</form><br/><br/>
+	<a href='register.jsp'>회원가입하기</a><br/>
+	<a href='ID.jsp'>아이디/비번 찾기</a>
 	</div>
 </div>
 

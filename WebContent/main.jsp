@@ -27,7 +27,7 @@
 <body>
 <a href="main.jsp" class="ent">Ent</a>
 &nbsp;&nbsp;&nbsp;
-<a href="main.jsp" class="home">홈</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="main.jsp" class="home" style="font-size: 18px;">홈</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="game.jsp" class="game">게임</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="tvshow.jsp" class="tvshow">방송</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="movie.jsp" class="movie">영화</a>&nbsp;&nbsp;&nbsp;&nbsp;
