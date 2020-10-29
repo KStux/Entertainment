@@ -8,24 +8,12 @@
 
 <script type="text/javascript">
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-	function passwordChk() {
-		
-	}
-=======
 	
->>>>>>> Stashed changes
-=======
-	function() {
-		
-	}
->>>>>>> Stashed changes
 
 </script>
 
 </head>
-<body>asdasdasd
+<body>
 
 <table border="1">
 	<tr>
