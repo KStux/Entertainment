@@ -9,11 +9,17 @@
 <script type="text/javascript">
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	function passwordChk() {
 		
 	}
 =======
 	
+>>>>>>> Stashed changes
+=======
+	function() {
+		
+	}
 >>>>>>> Stashed changes
 
 </script>
