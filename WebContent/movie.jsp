@@ -55,7 +55,7 @@
 <a href="main.jsp" class="home">홈</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="game.jsp" class="game">게임</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="tvshow.jsp" class="tvshow">방송</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="movie(Update).jsp" class="movie" style="font-size: 18px;">영화</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="movie.jsp" class="movie" style="font-size: 18px;">영화</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="youtube.jsp" class="youtube">유투브</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="cartoon.jsp" class="cartoon">만화</a>
 
