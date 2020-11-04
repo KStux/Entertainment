@@ -25,6 +25,11 @@
 		background: white;
 		text-align: center;
 		border : center;
+  		border-radius: 25px;
+  		padding: 20px; 
+  		align-content: center;
+  		margin: auto;	
+  		padding: 10px;
 	}
 	img{
 		width:150px;
@@ -38,10 +43,9 @@
         right: 300px;
         top: 50px;
     }
-	.the_see{
-		text-indent: 1500px;
-  		text-transform: uppercase;
-	}
+    .center{
+    	text-align: center;
+    }
 
 </style>
 </head>
@@ -61,14 +65,8 @@
 	  <input type="button" value="로그인 " onclick="location.href='login.jsp'">
 </span>
 
-<h1>예매순</h1>
-<div>
-	<a href="To_see.jsp">
-		<p class="the_see">
-			더 보기
-		</p>
-	</a>
-</div>
+<h1 class= "center">예매순</h1>
+
 <table border = "1">
 	<tr>
 		<td>
@@ -235,12 +233,7 @@
 <!-- 평점순 -->
 
 
-<h1>평점순</h1>
-	<a href="To_see.jsp">
-		<p class="the_see">
-			더 보기
-		</p>
-	</a>
+<h1 class="center">평점순</h1>
 <table border = "1" class = "point">
 	<tr>
 		<td>
@@ -305,6 +298,7 @@
 		</td>
 	</tr>
 	<tr>
+
 		<td>
 	<!-- 1위 -->	
 			<a href="./movie/디어마이지니어스.mp4" 
